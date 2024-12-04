@@ -9,4 +9,4 @@ Your name and amount you've donated to me will be displayed across all my VRChat
 
 ## 🤑 How can i donate
 That's easy! Just click this button to donate~ <3
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'X8X6112L7X');kofiwidget2.draw();</script> 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6112L7X)
