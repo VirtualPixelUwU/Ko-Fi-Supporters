@@ -12,4 +12,7 @@ That's easy! Just click this button to donate~ <3
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6112L7X)
 
+
 ![alt text](https://raw.githubusercontent.com/VirtualPixelUwU/Ko-Fi-Supporters/refs/heads/main/Pixel_Love.png)
+
+# Made with ❤️ by VirtualPixel~
