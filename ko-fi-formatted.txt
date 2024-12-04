@@ -1,4 +1,5 @@
 Jo Example donated <color=#ff00ff>27.95USD</color>
+Jo Example donated <color=#ff00ff>27.95USD</color>
 Jo Example subscribed for 5.00USD/month
 Jo Example subscribed for 3.00USD/month
 Jo Example donated 3.00USD
