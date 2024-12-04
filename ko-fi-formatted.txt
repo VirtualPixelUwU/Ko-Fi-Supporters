@@ -1,3 +1,4 @@
+Jo Example donated 3.00USD
 Jo Example donated <color=#ff00ff>27.95USD</color>
 Jo Example donated 3.00USD
 Jo Example donated 27.95USD
