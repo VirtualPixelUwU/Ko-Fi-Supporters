@@ -1,5 +1,5 @@
 # 💜 VirtualPixel's Ko-Fi Supporters 💜
-Here will all my amazing supporters be uploaded by my backend, so my in-game supporter wall works without downtime~ :3
+Here will all my amazing Ko-Fi supporters be uploaded by my backend, so my in-game supporter wall can display all my wonderful Ko-Fi Supporters without any downtime! ~ :3
 
 ## ⚙️ How it works
 When you donate or subscribe to be via Ko-Fi, Ko-Fi sends a HTTP POST to my python backend server that parses the incoming data, and uploads it to this repo, so everyone in-game can see my awesome supporters <3
