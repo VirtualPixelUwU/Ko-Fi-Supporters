@@ -1,1 +1,1 @@
-VirtualPixel:26,_LunaLu_:11,[1] Local Player:26,
+VirtualPixel:26,_LunaLu_:11,[1] Local Player:6,
