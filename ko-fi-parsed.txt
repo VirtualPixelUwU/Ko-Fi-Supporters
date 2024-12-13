@@ -1,1 +1,1 @@
-Beepbopheadpop:60.0,VirtualPixel:26.80,Zeetegel:26.80,[1] Local Player:15.69,_LunaLu_:5.00
+Beepbopheadpop:60.0,VirtualPixel:69.69,Zeetegel:26.80,[1] Local Player:15.69,_LunaLu_:5.00
