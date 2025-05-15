@@ -1,4 +1,3 @@
-Tenshi RD:20.00
 imrayman:30.00
 Beepbopheadpop:148.0
 PhantomGirl:125.00
@@ -6,5 +5,4 @@ LunaWolfVRC:30.00
 OmanOkami:30.00
 moxymask:30.00
 Jo Example:27.95
-_LunaLu_:5.00
 [1] Local Player:11.00
