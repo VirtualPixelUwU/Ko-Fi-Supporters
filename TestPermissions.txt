@@ -6,3 +6,4 @@ AnotherArctic
 ༺Truth༻
 Arrestor
 Dreivanz
+[1] Local Player
