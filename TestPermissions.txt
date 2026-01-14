@@ -1,7 +1,40 @@
+### Level 5 - Admin
 VirtualPixel
 Dreivanz
 [1] Local Player
 
+### Level 4 - Staff
+DrakoDarker
+Mige_
+Shironuma
+0neSolidJunky
+HUNjozsi
+Cerulycan
+0peth
+Kyoshi Reimi
+
+### Level 3 - DJ
 Ru
 Grizdog
 John McBadass
+Lexa~
+Burgerbeast
+Mister Chop
+
+### Level 2
+player1
+player2
+
+### Level 1
+player1
+player2
+
+### Blacklist
+CutieBirdie
+Alonecapon
+Midnight~moon~
+Scapist
+Krosuna
+_LunaLu_
+Nomoid3as
+RhincodonNebula
