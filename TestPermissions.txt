@@ -1,6 +1,7 @@
 ### Level 5 - Admin
 VirtualPixel
 Dreivanz
+[1] Local Player
 
 ### Level 4 - Staff
 DrakoDarker
@@ -19,14 +20,13 @@ John McBadass
 Lexa~
 Burgerbeast
 Mister Chop
+MeowBotUwU
 
 ### Level 2
-player1
-player2
+
 
 ### Level 1
-player1
-player2
+
 
 ### Level 0
 CutieBirdie
@@ -37,5 +37,3 @@ Krosuna
 _LunaLu_
 Nomoid3as
 RhincodonNebula
-[1] Local Player
-MeowBotUwU
