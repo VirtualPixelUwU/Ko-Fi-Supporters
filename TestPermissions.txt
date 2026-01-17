@@ -2,7 +2,6 @@
 VirtualPixel
 Dreivanz
 [1] Local Player
-0neSolidJunky
 
 ### Level 4 - Staff
 DrakoDarker
@@ -12,6 +11,7 @@ HUNjozsi
 Cerulycan
 0peth
 Kyoshi Reimi
+0neSolidJunky
 
 ### Level 3 - DJ
 Ru
