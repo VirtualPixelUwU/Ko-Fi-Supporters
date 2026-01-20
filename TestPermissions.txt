@@ -12,6 +12,7 @@ Cerulycan
 0peth
 Kyoshi Reimi
 0neSolidJunky
+[2] Remote Player
 
 ### Level 3 - DJ
 Ru
