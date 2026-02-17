@@ -12,6 +12,9 @@ Cerulycan
 0peth
 Kyoshi Reimi
 0neSolidJunky
+WilSavingThrow
+Muffin Puffin
+Blake Viridian
 [2] Remote Player
 Zeetegel
 
@@ -23,6 +26,7 @@ Lexa~
 Burgerbeast
 Mister Chop
 BattleKau
+Paiety
 
 ### Level 2
 
