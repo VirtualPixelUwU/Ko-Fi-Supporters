@@ -1,7 +1,6 @@
 ### Level 5 - Admin
 VirtualPixel
 Dreivanz
-[1] Local Player
 
 ### Level 4 - Staff
 DrakoDarker
@@ -15,7 +14,6 @@ Kyoshi Reimi
 WilSavingThrow
 Muffin Puffin
 Blake Viridian
-[2] Remote Player
 Zeetegel
 
 ### Level 3 - DJ
