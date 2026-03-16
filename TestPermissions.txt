@@ -15,7 +15,6 @@ Kyoshi Reimi
 WilSavingThrow
 Muffin Puffin
 Blake Viridian
-Zeetegel
 
 ### Level 3 - DJ
 Ru
@@ -34,12 +33,4 @@ Paiety
 
 
 ### Level 0
-CutieBirdie
-Alonecapon
-Midnight~moon~
-Scapist
-Krosuna
-_LunaLu_
-Nomoid3as
-RhincodonNebula
-Seally Seal
+Zeetegel
